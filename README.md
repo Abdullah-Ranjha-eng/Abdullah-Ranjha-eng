@@ -4,7 +4,7 @@
 <tr>
 <td width="30%">
 
-<img src="/PixVerse_CreateAmazingAIVideosfromTextPhotoswithAIVideoGenerator-GoogleChrome2026-04-1012-50-07online-video-cutter.com-ezgif.com-gif-maker.gif" width="250"/>
+<img src="PixVerse_CreateAmazingAIVideosfromTextPhotoswithAIVideoGenerator-GoogleChrome2026-04-1012-50-07online-video-cutter.com-ezgif.com-gif-maker.gif" width="250"/>
 <td width="70%">
 I'm Abdullah a Software Engineer & robot engineer.
 
