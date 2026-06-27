@@ -8,7 +8,7 @@
 <td width="70%">
 I'm Abdullah a Software Engineer & robot engineer.
 
-I build MERN stack apps and love solving problems 🚀  
+I build MERN stack apps and love solving problems. 🚀  
 Beyond tech, I’m building arduino based projects and yeah i'm a creative person on the earth, spend lot of my time doing my own things.
 
 ### 🔗 Connect with me
