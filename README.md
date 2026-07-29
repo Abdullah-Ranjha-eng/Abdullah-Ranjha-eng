@@ -11,7 +11,7 @@ I'm Abdullah a Software Engineer & robot engineer.
 I build MERN and MEVN stack apps and love solving problems 🚀  
 Beyond tech, I’m building arduino based projects and yeah i'm a creative person on the earth, spend lot of my time doing my own things.
 
-### 🔗 Connect with me
+### 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
